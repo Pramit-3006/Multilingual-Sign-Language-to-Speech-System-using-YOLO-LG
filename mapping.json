@@ -1,0 +1,39 @@
+{
+  "classes": [
+    {
+      "id": 0,
+      "label": "hello",
+      "text": "Hello"
+    },
+    {
+      "id": 1,
+      "label": "thank_you",
+      "text": "Thank you"
+    },
+    {
+      "id": 2,
+      "label": "yes",
+      "text": "Yes"
+    },
+    {
+      "id": 3,
+      "label": "no",
+      "text": "No"
+    },
+    {
+      "id": 4,
+      "label": "help",
+      "text": "Please help me"
+    },
+    {
+      "id": 5,
+      "label": "water",
+      "text": "I need water"
+    },
+    {
+      "id": 6,
+      "label": "bathroom",
+      "text": "Where is the bathroom?"
+    }
+  ]
+}

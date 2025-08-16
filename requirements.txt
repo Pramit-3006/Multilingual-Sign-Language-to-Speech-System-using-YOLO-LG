@@ -1,0 +1,17 @@
+# --- Core ---
+opencv-python>=4.9.0.80
+numpy>=1.24.0
+# --- Detection (any one) ---
+onnxruntime>=1.18.0
+ultralytics>=8.2.0
+# --- NLP / Translation ---
+transformers>=4.41.0
+sentencepiece>=0.1.99
+torch>=2.1.0
+# --- Text to Speech (choose one) ---
+pyttsx3>=2.90
+gTTS>=2.5.1
+# --- Utils ---
+pydantic>=2.7.0
+sounddevice>=0.4.6
+scipy>=1.11.4
